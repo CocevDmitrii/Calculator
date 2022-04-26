@@ -1,5 +1,3 @@
-https://jm-program.github.io/task-calculator
-
 Задача: “Калькулятор”
 Описание:
 
